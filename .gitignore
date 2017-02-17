@@ -10,12 +10,7 @@ project/plugins/project/
 target/
 
 # IntelliJ-specific
-*/.idea/*
+.idea/*
 
 # Spark
 spark-warehouse/
-
-# Scaladoc-specific
-*.html
-*.js
-lib/*
