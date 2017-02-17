@@ -1,0 +1,11 @@
+*           text=auto
+
+*.scala     text
+*.sbt       text
+*.md        text
+*.xml       text
+*.sh        text eol=lf
+
+*.jar       binary
+*.png       binary
+*.jpg       binary
