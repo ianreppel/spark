@@ -28,7 +28,7 @@ object SparkSandbox extends App {
   import spark.implicits._
 
   /**
-    * Reads a JSON file from the resources directory as a [[String]]
+    * Reads a JSON file from the resources directory as a [[scala.Predef.String]]
     *
     * @param file File name
     * @return String with the contents of the entire JSON file (without any leading, trailing, or repeated whitespace)
@@ -58,7 +58,7 @@ object SparkSandbox extends App {
     * Reads a JSON file from the resources directory as a [[org.apache.spark.sql.DataFrame]]
     *
     * @param file    File name
-    * @param sqlCtxt An in-scope implicit instance of [[org.apache.spark.sql.SQLContext]]
+    * @param sparkSession An in-scope implicit instance of [[org.apache.spark.sql.SQLContext]]
     * @return A DataFrame with the contents of the entire JSON file
     *         (without any leading, trailing, or repeated whitespace)
     */

@@ -1,1 +1,2 @@
-addSbtPlugin("org.scalastyle" % "scalastyle-sbt-plugin" % "0.8.0")
+addSbtPlugin("org.scalastyle" % "scalastyle-sbt-plugin" % "latest.release")
+addSbtPlugin("com.thoughtworks.sbt-api-mappings" % "sbt-api-mappings" % "latest.release")

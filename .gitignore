@@ -5,22 +5,15 @@
 *.class
 
 # sbt-specific
-.cache
-.history
-.lib/
-dist/*
-target/
-lib_managed/
-src_managed/
 project/boot/
 project/plugins/project/
+target/
 
 # IntelliJ-specific
-.idea/*
+*/.idea/*
 
-# ENSIME-specific
-.ensime_cache/
-.ensime
+# Spark
+spark-warehouse/
 
 # Scaladoc-specific
 *.html
