@@ -3,7 +3,7 @@
   *
   * Code for post: A Quickie on Reading JSON Resource Files in Apache Spark with Scala
   * Compatibility: Apache Spark 2.1.0 and above
-  * Base URL:      https://databaseline.bitbucket.io
+  * Base URL:      https://databaseline.tech
   * Author:        Ian Hellström
   *
   * Notes:         In IntelliJ IDEA:
