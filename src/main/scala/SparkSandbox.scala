@@ -1,8 +1,8 @@
 /**
   * Code for post: Reading JSON Resource Files in Apache Spark with Scala
   * Compatibility: Apache Spark 2.1.0 and above
-  * Base URL:      https://ianhellstrom.org
-  * Author:        Ian Hellström
+  * Base URL:      https://ianreppel.org
+  * Author:        Ian Reppel
   *
   * Notes:         In IntelliJ IDEA:
   *                1. From the main menu: Run > Edit Configurations... > 'Use classpath and SDK of module' and set it
